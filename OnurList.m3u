@@ -356,15 +356,15 @@ http://stream.tvcdn.net/muzik/chill-tv.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-logo="https://i.imgur.com/IV2Qvc0.png" group-title="MÜZİK",DeepHouse District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="MÜZİK",Deluxe Music (720p)
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="MÜZİK",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="MUZZIK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="MÜZİK",MUZZIK (720p)
+#EXTINF:-1 tvg-id="MUZZIK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="MÜZİK",MUZZIK
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="ELECTRO.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="MÜZİK",Muzzik ELECTRO (720p)
+#EXTINF:-1 tvg-id="ELECTRO.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="MÜZİK",Muzzik ELECTRO
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-#EXTINF:-1 tvg-id="FLASHBACK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="MÜZİK",Muzzik FLASHBACK (720p)
+#EXTINF:-1 tvg-id="FLASHBACK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="MÜZİK",Muzzik FLASHBACK
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="MÜZİK",Muzzik POP STAR (720p)
+#EXTINF:-1 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="MÜZİK",Muzzik POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
 # * » SİNEMA ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
@@ -410,7 +410,7 @@ https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBD
 #EXTINF:-1 tvg-name="FX "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="SİNEMA":http-referrer="":http-user-agent="",FX
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/12
 
-#EXTINF:-1 tvg-name="Moviesmart Turk"tvg-id=""tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg"group-title="SİNEMA":http-referrer="":http-user-agent="",Movie Smart Turk
+#EXTINF:-1 tvg-name="Moviesmart Turk"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_T%C3%BCrk.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Movie Smart Turk
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/64828
 
 
