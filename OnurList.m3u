@@ -131,8 +131,6 @@ http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="ULUSAL",TV 4
 http://stream.tvcdn.net/eglence/tv-4.m3u8
-#EXTINF:-1 tvg-id="Sat7Turk.cy" tvg-logo="http://assets.tvcdn.net/ca0a924f-a0ee-44a4-b590-b500ceb3e42b.png" group-title="ULUSAL",Sat 7 Türk
-http://stream.tvcdn.net/dini/sat-7-turk.m3u8
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="ULUSAL",Show Max
 http://stream.tvcdn.net/eglence/show-max.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="ULUSAL",teve2
