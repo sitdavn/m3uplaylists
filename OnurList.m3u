@@ -326,6 +326,12 @@ http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
 http://stream.tvcdn.net/muzik/number-one-tv.m3u8
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="MÜZİK",Number One Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png" group-title="MÜZİK",Number 1 Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="MÜZİK",Number 1 Damar
+http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="MÜZİK",Number 1 Dance
+http://stream.tvcdn.net/muzik/number-1-dance.m3u8
 #EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" group-title="MÜZİK",Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-id="TatlisesTV.tr" tvg-logo="http://assets.tvcdn.net/c65a05ac-96c4-4e80-b232-d27e88fc70c6.png" group-title="MÜZİK",Tatlıses TV
@@ -342,12 +348,6 @@ http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
 http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="http://assets.tvcdn.net/ebb82c5c-86ac-4dc5-ba78-b26e536cebf7.png" group-title="MÜZİK",Powertürk Taptaze
 http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
-#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png" group-title="MÜZİK",Number 1 Aşk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="MÜZİK",Number 1 Damar
-http://stream.tvcdn.net/muzik/number-1-damar.m3u8
-#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="MÜZİK",Number 1 Dance
-http://stream.tvcdn.net/muzik/number-1-dance.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/57fd67c8-f4e4-4516-a2de-68325d438b1a.png" group-title="MÜZİK",Almanya TV
 http://stream.tvcdn.net/diger-eglence/almanya-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/972fe810-96d7-4cad-8918-fe0c28a45e7d.png" group-title="MÜZİK",Chill TV
