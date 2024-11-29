@@ -148,13 +148,13 @@ http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 #EXTINF:-1 tvg-name="beIN IZ [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5es6vau.png"group-title="ULUSAL":http-referrer="":http-user-agent="",beIN IZ [ HD ]
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL",KANAL D (backup)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL",KANAL D (backup)
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="ULUSAL",NTV
