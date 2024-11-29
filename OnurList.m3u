@@ -64,6 +64,10 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 http://stream.tvcdn.net/ulusal/tv-100.m3u8
 #EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_SozcuTV" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="EV",Sözcü TV
 https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="EV",Ülke TV
+http://stream.tvcdn.net/haber/ulke-tv.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="EV",Ekotürk
+http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="EV",Bloomberg HT
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:-1 tvg-name="CNBC-e" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="EV",CNBC-e
@@ -138,6 +142,16 @@ http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 #EXTINF:-1 tvg-name="beIN IZ [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5es6vau.png"group-title="ULUSAL":http-referrer="":http-user-agent="",beIN IZ [ HD ]
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup)
+https://trn03.tulix.tv/gt-kanald/playlist.m3u8
+
+
 # * » HABER ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="HABER",TGRT Haber
@@ -166,6 +180,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 http://stream.tvcdn.net/ekonomi/a-para.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="HABER",Ekol TV
 http://stream.tvcdn.net/yerel/ekol-tv.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="HABER",Ekotürk
+http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-logo="http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png" group-title="HABER",KRT TV
 http://stream.tvcdn.net/haber/krt-tv.m3u8
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="HABER",Akit TV
@@ -176,6 +192,8 @@ http://stream.tvcdn.net/haber/flash-haber.m3u8
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="HABER",Ulusal Kanal
 https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="HABER",Ülke TV
+http://stream.tvcdn.net/haber/ulke-tv.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="HABER",Halk TV
 http://stream.tvcdn.net/haber/halk-tv.m3u8
 #EXTINF:-1 tvg-name="Tele 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Tele1" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="HABER",Tele 1
