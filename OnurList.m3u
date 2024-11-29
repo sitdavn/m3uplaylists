@@ -70,6 +70,8 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 #EXTINF:-1 tvg-id="APara.tr" tvg-logo="http://assets.tvcdn.net/5aca3b8c-0c1b-41f7-96c0-b70f8a3f24fc.png" group-title="EV",A Para
 http://stream.tvcdn.net/ekonomi/a-para.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="EV",Ekol TV
+http://stream.tvcdn.net/yerel/ekol-tv.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-logo="http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png" group-title="EV",KRT TV
 http://stream.tvcdn.net/haber/krt-tv.m3u8
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="EV",Akit TV
@@ -160,6 +162,8 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 #EXTINF:-1 tvg-id="APara.tr" tvg-logo="http://assets.tvcdn.net/5aca3b8c-0c1b-41f7-96c0-b70f8a3f24fc.png" group-title="HABER",A Para
 http://stream.tvcdn.net/ekonomi/a-para.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="HABER",Ekol TV
+http://stream.tvcdn.net/yerel/ekol-tv.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-logo="http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png" group-title="HABER",KRT TV
 http://stream.tvcdn.net/haber/krt-tv.m3u8
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="HABER",Akit TV
@@ -342,6 +346,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f
 http://stream.tvcdn.net/muzik/number-1-damar.m3u8
 #EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="MÜZİK",Number 1 Dance
 http://stream.tvcdn.net/muzik/number-1-dance.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/57fd67c8-f4e4-4516-a2de-68325d438b1a.png" group-title="MÜZİK",Almanya TV
+http://stream.tvcdn.net/diger-eglence/almanya-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/972fe810-96d7-4cad-8918-fe0c28a45e7d.png" group-title="MÜZİK",Chill TV
 http://stream.tvcdn.net/muzik/chill-tv.m3u8
 #EXTINF:-1 tvg-id="AfrobeatsTV.za" tvg-logo="https://i.imgur.com/u0d5j0C.png" group-title="MÜZİK",Afrobeats TV
@@ -359,8 +365,28 @@ https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Music",Muzzik POP STAR (720p)
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
+# * » SİNEMA ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
 
+#EXTINF:-1 tvg-name="Sinema Turk "tvg-id=""tvg-logo="https://eudzr49nzcv.exactdn.com/wp-content/uploads/2018/03/E-Bursum-13.png?strip=all&lossy=1&ssl=1"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Turk
+https://lives.anystreamrectv3.live/live/yer1.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+#EXTINF:-1 tvg-name="Sinema Animasyon "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5ToLxGwrhed7ICKQWDA-bkVb5mPgiGLFbA&s"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Animasyon
+https://lives.anystreamrectv3.live/live/anim3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+#EXTINF:-1 tvg-name="Sinema Korku "tvg-id=""tvg-logo="https://img-s3.onedio.com/id-5d1b4daf5760d9223b9c6e05/rev-0/w-600/h-337/f-jpg/s-8cf0658528ae28f4205a84424b848da31c753338.jpg"group-title="SİNEMA":http-referrer="":http-user-agent="",MAGICBOX Korku
+https://lives.anystreamrectv3.live/live/kor2.m3u8?token=f9B00rog-R942HoUYaT19A&tms=1732549682
+#EXTINF:-1 tvg-name="Bein Movies turk"tvg-id=""tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Movies Turk
+https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Box Office 3
+https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
 
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/50426
+#EXTINF:-1 tvg-name="Sinema TV"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljYVTA1S2PxzgFAm5d56__EnculIbLcsfTm42oJAt9fdc=s900-c-k-c0x00ffffff-no-rj"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/163
+#EXTINF:-1 tvg-name="Sinema TV 2"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 2
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/103139
+#EXTINF:-1 tvg-name="Sinema TV 1001"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB68TamcvGJ67uFDj6UgS-lii8G7PBQxfc6w&s"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 1001
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/164
+#EXTINF:-1 tvg-name="Sinema TV 1002"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 1002
+http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/369
 
 
 
