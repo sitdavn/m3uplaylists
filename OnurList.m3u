@@ -10,5 +10,5 @@ http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Szc TV
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Ulusal",A Haber
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Ulusal242",A Haber
 http://stream.tvcdn.net/haber/a-haber.m3u8
