@@ -65,8 +65,9 @@ http://stream.tvcdn.net/ulusal/tv-100.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="EV",Bloomberg HT
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="EV",CNBC-e
-http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
+#EXTINF:-1 tvg-name="CNBC-e" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="EV",CNBC-e (Youtube)
+https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+
 #EXTINF:-1 tvg-id="APara.tr" tvg-logo="http://assets.tvcdn.net/5aca3b8c-0c1b-41f7-96c0-b70f8a3f24fc.png" group-title="EV",A Para
 http://stream.tvcdn.net/ekonomi/a-para.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-logo="http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png" group-title="EV",KRT TV
