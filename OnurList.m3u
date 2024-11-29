@@ -45,11 +45,6 @@ http://stream.tvcdn.net/spor/sports-tv.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="EV",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="EV",TRT Belgesel
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="EV",TGRT Belgesel
-http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
-
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="EV",TGRT Haber
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="EV",TRT Haber
@@ -145,25 +140,9 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="ULUSAL",Cine5 TV
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
-#EXTINF:-1 tvg-name="beIN IZ [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5es6vau.png"group-title="ULUSAL":http-referrer="":http-user-agent="",beIN IZ [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
-
 
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="ULUSAL",KANAL D - yedek
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="ULUSAL",NTV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="ULUSAL",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="ULUSAL",NTV (backup)
-http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="ULUSAL",NTV (backup)
-http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
-
-
 
 # * » HABER ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
 
@@ -345,6 +324,15 @@ https://777.trgoalshls7.cfd/yayinsms2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1037.xyz/
 
+# * » BELGESEL ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="BELGESEL",TRT Belgesel
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="BELGESEL",TGRT Belgesel
+http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+#EXTINF:-1 tvg-name="beIN IZ [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5es6vau.png"group-title="BELGESEL":http-referrer="":http-user-agent="",beIN IZ [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
+
 # * » MÜZİK ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
 
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="MÜZİK",TRT Müzik
@@ -404,7 +392,6 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
 # * » SİNEMA ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
 
-
 #EXTINF:-1 tvg-name="Sinema TV"tvg-id=""tvg-logo="https://www.superkablonet.com/yukleme/download/168.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/163
 #EXTINF:-1 tvg-name="Sinema TV 2"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 2
@@ -421,10 +408,8 @@ http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/364
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/165
 #EXTINF:-1 tvg-name="Sinema TV Aile"tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Aile
 http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/362
-
 #EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Epic Drama
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/50426
-
 #EXTINF:-1 tvg-name="Sinema Mix "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbFdcji7WrIpDxqpJaU_jU-_T2ELO7oJdfQ&s"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Premier
 https://lives.anystreamrectv3.live/live/mix2.m3u8?token=KD9sEi3opYjO9B-7O5zYgw&tms=1732221762
 #EXTINF:-1 tvg-name="Sinema Aksiyon "tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Aksiyon
@@ -433,18 +418,14 @@ https://lives.anystreamrectv3.live/live/aks3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&t
 https://lives.anystreamrectv3.live/live/yer1.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
 #EXTINF:-1 tvg-name="Sinema Animasyon "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5ToLxGwrhed7ICKQWDA-bkVb5mPgiGLFbA&s"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Animasyon
 https://lives.anystreamrectv3.live/live/anim3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
-
 #EXTINF:-1 tvg-name="Sinema Korku "tvg-id=""tvg-logo="https://img-s3.onedio.com/id-5d1b4daf5760d9223b9c6e05/rev-0/w-600/h-337/f-jpg/s-8cf0658528ae28f4205a84424b848da31c753338.jpg"group-title="SİNEMA":http-referrer="":http-user-agent="",MAGICBOX Korku
 https://lives.anystreamrectv3.live/live/kor2.m3u8?token=f9B00rog-R942HoUYaT19A&tms=1732549682
-
 #EXTINF:-1 tvg-name="Bein Movies turk"tvg-id=""tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Movies Turk
 https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
 #EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5e/BeIN_BOX_OFFICE_HD_3_2018_logo.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Box Office 3
 https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
-
 #EXTINF:-1 tvg-name="FX "tvg-id=""tvg-logo="https://seeklogo.com/images/F/fx-logo-D0E42903C8-seeklogo.com.png"group-title="SİNEMA":http-referrer="":http-user-agent="",FX
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/12
-
 #EXTINF:-1 tvg-name="Moviesmart Turk"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_T%C3%BCrk.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Movie Smart Turk
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/64828
 
