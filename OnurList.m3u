@@ -135,6 +135,8 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="ULUSAL",Cine5 TV
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+#EXTINF:-1 tvg-name="beIN IZ [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5es6vau.png"group-title="ULUSAL":http-referrer="":http-user-agent="",beIN IZ [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
 
 # * » HABER ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
 
@@ -324,7 +326,7 @@ http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
 http://stream.tvcdn.net/muzik/number-one-tv.m3u8
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="MÜZİK",Number One Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" group-title="MÜZİKk",Milyon TV
+#EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" group-title="MÜZİK",Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-id="TatlisesTV.tr" tvg-logo="http://assets.tvcdn.net/c65a05ac-96c4-4e80-b232-d27e88fc70c6.png" group-title="MÜZİK",Tatlıses TV
 http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
@@ -356,27 +358,16 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="MÜZİK",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="MUZZIK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",MUZZIK (720p)
+#EXTINF:-1 tvg-id="MUZZIK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="MÜZİK",MUZZIK (720p)
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="ELECTRO.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik ELECTRO (720p)
+#EXTINF:-1 tvg-id="ELECTRO.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="MÜZİK",Muzzik ELECTRO (720p)
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-#EXTINF:-1 tvg-id="FLASHBACK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik FLASHBACK (720p)
+#EXTINF:-1 tvg-id="FLASHBACK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="MÜZİK",Muzzik FLASHBACK (720p)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Music",Muzzik POP STAR (720p)
+#EXTINF:-1 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="MÜZİK",Muzzik POP STAR (720p)
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
 # * » SİNEMA ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
-
-#EXTINF:-1 tvg-name="Sinema Turk "tvg-id=""tvg-logo="https://eudzr49nzcv.exactdn.com/wp-content/uploads/2018/03/E-Bursum-13.png?strip=all&lossy=1&ssl=1"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Turk
-https://lives.anystreamrectv3.live/live/yer1.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
-#EXTINF:-1 tvg-name="Sinema Animasyon "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5ToLxGwrhed7ICKQWDA-bkVb5mPgiGLFbA&s"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Animasyon
-https://lives.anystreamrectv3.live/live/anim3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
-#EXTINF:-1 tvg-name="Sinema Korku "tvg-id=""tvg-logo="https://img-s3.onedio.com/id-5d1b4daf5760d9223b9c6e05/rev-0/w-600/h-337/f-jpg/s-8cf0658528ae28f4205a84424b848da31c753338.jpg"group-title="SİNEMA":http-referrer="":http-user-agent="",MAGICBOX Korku
-https://lives.anystreamrectv3.live/live/kor2.m3u8?token=f9B00rog-R942HoUYaT19A&tms=1732549682
-#EXTINF:-1 tvg-name="Bein Movies turk"tvg-id=""tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Movies Turk
-https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
-#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Box Office 3
-https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
 
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/50426
 #EXTINF:-1 tvg-name="Sinema TV"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljYVTA1S2PxzgFAm5d56__EnculIbLcsfTm42oJAt9fdc=s900-c-k-c0x00ffffff-no-rj"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV
@@ -387,6 +378,40 @@ http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/103139
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/164
 #EXTINF:-1 tvg-name="Sinema TV 1002"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 1002
 http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/369
+#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Epic Drama
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/50426
+#EXTINF:-1 tvg-name="Sinema TV Aksiyon"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Aksiyon
+https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8?token=s8FvpvH-UnF3lWKusCfWQg&tms=1732816624
+#EXTINF:-1 tvg-name="Sinema TV Komedi"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cU5aas0_6iqHbW13dvds24w6SmRTherHpA&s"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Komedi
+http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/364
+#EXTINF:-1 tvg-name="Sinema TV Yerli"tvg-id=""tvg-logo="https://i.ytimg.com/vi/fbetAjE1_KM/maxresdefault.jpg"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Yerli
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/165
+#EXTINF:-1 tvg-name="Sinema TV Aile"tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Aile
+http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/362
+
+
+#EXTINF:-1 tvg-name="Sinema Mix "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbFdcji7WrIpDxqpJaU_jU-_T2ELO7oJdfQ&s"group-title="Sinema ":http-referrer="":http-user-agent="",MAX Premier
+https://lives.anystreamrectv3.live/live/mix2.m3u8?token=KD9sEi3opYjO9B-7O5zYgw&tms=1732221762
+#EXTINF:-1 tvg-name="Sinema Aksiyon "tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Aksiyon
+https://lives.anystreamrectv3.live/live/aks3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+#EXTINF:-1 tvg-name="Sinema Turk "tvg-id=""tvg-logo="https://eudzr49nzcv.exactdn.com/wp-content/uploads/2018/03/E-Bursum-13.png?strip=all&lossy=1&ssl=1"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Turk
+https://lives.anystreamrectv3.live/live/yer1.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+#EXTINF:-1 tvg-name="Sinema Animasyon "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5ToLxGwrhed7ICKQWDA-bkVb5mPgiGLFbA&s"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Animasyon
+https://lives.anystreamrectv3.live/live/anim3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+
+#EXTINF:-1 tvg-name="Sinema Korku "tvg-id=""tvg-logo="https://img-s3.onedio.com/id-5d1b4daf5760d9223b9c6e05/rev-0/w-600/h-337/f-jpg/s-8cf0658528ae28f4205a84424b848da31c753338.jpg"group-title="SİNEMA":http-referrer="":http-user-agent="",MAGICBOX Korku
+https://lives.anystreamrectv3.live/live/kor2.m3u8?token=f9B00rog-R942HoUYaT19A&tms=1732549682
+
+#EXTINF:-1 tvg-name="Bein Movies turk"tvg-id=""tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Movies Turk
+https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Family
+https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+
+#EXTINF:-1 tvg-name="FX "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="SİNEMA":http-referrer="":http-user-agent="",FX
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/12
+
+#EXTINF:-1 tvg-name="Moviesmart Turk"tvg-id=""tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg"group-title="SİNEMA":http-referrer="":http-user-agent="",Movie Smart Turk
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/64828
 
 
 
