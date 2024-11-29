@@ -390,7 +390,7 @@ http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/362
 #EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Epic Drama
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/50426
 
-#EXTINF:-1 tvg-name="Sinema Mix "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbFdcji7WrIpDxqpJaU_jU-_T2ELO7oJdfQ&s"group-title="Sinema ":http-referrer="":http-user-agent="",MAX Premier
+#EXTINF:-1 tvg-name="Sinema Mix "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbFdcji7WrIpDxqpJaU_jU-_T2ELO7oJdfQ&s"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Premier
 https://lives.anystreamrectv3.live/live/mix2.m3u8?token=KD9sEi3opYjO9B-7O5zYgw&tms=1732221762
 #EXTINF:-1 tvg-name="Sinema Aksiyon "tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png"group-title="SİNEMA":http-referrer="":http-user-agent="",MAX Aksiyon
 https://lives.anystreamrectv3.live/live/aks3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
@@ -404,7 +404,7 @@ https://lives.anystreamrectv3.live/live/kor2.m3u8?token=f9B00rog-R942HoUYaT19A&t
 
 #EXTINF:-1 tvg-name="Bein Movies turk"tvg-id=""tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Movies Turk
 https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
-#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Family
+#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Movies Family
 https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
 
 #EXTINF:-1 tvg-name="FX "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="SİNEMA":http-referrer="":http-user-agent="",FX
