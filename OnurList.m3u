@@ -380,7 +380,7 @@ http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/164
 http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/369
 #EXTINF:-1 tvg-name="Sinema TV Aksiyon"tvg-id=""tvg-logo="http://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Aksiyon
 https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8?token=s8FvpvH-UnF3lWKusCfWQg&tms=1732816624
-#EXTINF:-1 tvg-name="Sinema TV Komedi"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cU5aas0_6iqHbW13dvds24w6SmRTherHpA&s"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Komedi
+#EXTINF:-1 tvg-name="Sinema TV Komedi"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-KOMEDI_logo.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Komedi
 http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/364
 #EXTINF:-1 tvg-name="Sinema TV Yerli"tvg-id=""tvg-logo="http://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Yerli
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/165
@@ -407,7 +407,7 @@ https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA
 #EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5e/BeIN_BOX_OFFICE_HD_3_2018_logo.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Box Office 3
 https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
 
-#EXTINF:-1 tvg-name="FX "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="SİNEMA":http-referrer="":http-user-agent="",FX
+#EXTINF:-1 tvg-name="FX "tvg-id=""tvg-logo="https://seeklogo.com/images/F/fx-logo-D0E42903C8-seeklogo.com.png"group-title="SİNEMA":http-referrer="":http-user-agent="",FX
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/12
 
 #EXTINF:-1 tvg-name="Moviesmart Turk"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_T%C3%BCrk.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Movie Smart Turk
