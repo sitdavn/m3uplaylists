@@ -370,11 +370,11 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 # * » SİNEMA ___________________________________________________________________________________________________________________________________________________________________________________________________ « * #
 
 
-#EXTINF:-1 tvg-name="Sinema TV"tvg-id=""tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV
+#EXTINF:-1 tvg-name="Sinema TV"tvg-id=""tvg-logo="https://www.superkablonet.com/yukleme/download/168.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/163
 #EXTINF:-1 tvg-name="Sinema TV 2"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 2
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/103139
-#EXTINF:-1 tvg-name="Sinema TV 1001"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB68TamcvGJ67uFDj6UgS-lii8G7PBQxfc6w&s"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 1001
+#EXTINF:-1 tvg-name="Sinema TV 1001"tvg-id=""tvg-logo="http://1001.sinematv.com.tr/content/logo/SINEMATV-1001-GRI.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 1001
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/164
 #EXTINF:-1 tvg-name="Sinema TV 1002"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 1002
 http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/369
@@ -404,7 +404,7 @@ https://lives.anystreamrectv3.live/live/kor2.m3u8?token=f9B00rog-R942HoUYaT19A&t
 
 #EXTINF:-1 tvg-name="Bein Movies turk"tvg-id=""tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Movies Turk
 https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
-#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Box Office 3
+#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5e/BeIN_BOX_OFFICE_HD_3_2018_logo.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Bein Box Office 3
 https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
 
 #EXTINF:-1 tvg-name="FX "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj"group-title="SİNEMA":http-referrer="":http-user-agent="",FX
