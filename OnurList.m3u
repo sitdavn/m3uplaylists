@@ -378,8 +378,6 @@ http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/103139
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/164
 #EXTINF:-1 tvg-name="Sinema TV 1002"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV 1002
 http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/369
-#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Epic Drama
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/50426
 #EXTINF:-1 tvg-name="Sinema TV Aksiyon"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Aksiyon
 https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8?token=s8FvpvH-UnF3lWKusCfWQg&tms=1732816624
 #EXTINF:-1 tvg-name="Sinema TV Komedi"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cU5aas0_6iqHbW13dvds24w6SmRTherHpA&s"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Komedi
@@ -389,6 +387,8 @@ http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/165
 #EXTINF:-1 tvg-name="Sinema TV Aile"tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Sinema TV Aile
 http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/362
 
+#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png"group-title="SİNEMA":http-referrer="":http-user-agent="",Epic Drama
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/50426
 
 #EXTINF:-1 tvg-name="Sinema Mix "tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbFdcji7WrIpDxqpJaU_jU-_T2ELO7oJdfQ&s"group-title="Sinema ":http-referrer="":http-user-agent="",MAX Premier
 https://lives.anystreamrectv3.live/live/mix2.m3u8?token=KD9sEi3opYjO9B-7O5zYgw&tms=1732221762
