@@ -84,6 +84,8 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 https://live-cdn-65984.varplaycdn.cfd/ekoturk/index.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-logo="http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png" group-title="EV",KRT TV
 https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?
+#EXTINF:-1 tvg-id="1a5c4077-fc8e-4733-879e-1e820955ca5d" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" group-title="EV",Brt 1
+https://ottcdn.kablowebtv.net/live_turksat_sub3/brt1_stream/index.m3u8?
 #EXTINF:-1 tvg-id="52d40e7f-37fa-49c8-b551-1fc03e3b8cc9" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4b99d5a-c302-4524-aad7-e490def3bf0d.png" group-title="EV",TH Türk Haber
 https://ottcdn.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/index.m3u8?
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="EV",Akit TV
@@ -94,6 +96,8 @@ https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 https://live-cdn-65984.varplaycdn.cfd/tele1/index.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="EV",Halk TV
 https://live-cdn-65984.varplaycdn.cfd/halktv/index.m3u8
+#EXTINF:-1 tvg-id="4d2af840-c996-43d6-a59a-2c71c1971c00" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ccf5746a-1eda-45ed-9afc-5e281fa7a704.png" group-title="EV",Lider Haber
+https://ottcdn.kablowebtv.net/live_turksat_sub3/liderhaber_stream/index.m3u8?
 #EXTINF:-1 tvg-name="TRT World" tvg-language="English" tvg-country="USA" tvg-id="TRT_World" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png" group-title="EV",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="EV",Ulusal Kanal
